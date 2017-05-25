@@ -154,6 +154,20 @@
 <script>
     $(document).ready(()=>{
         $('header').height($(window).height());
+
+        $(window).resize(()=>{
+            const  widthX = 560/1920;
+            const heightY = 315/1080;
+
+            var width = widthX * $(window).width();
+            var height = heightY * $(window).height();
+
+            width = parseInt(width);
+            height = parseInt(height);
+
+            $('iframe').width(width);
+            $('iframe').height(height);
+        });
     });
 
 </script>
