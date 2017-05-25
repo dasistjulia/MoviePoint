@@ -423,6 +423,7 @@ header .intro-text .intro-heading {
     background-color: #171717;
     margin: auto;
     padding: 20px;
+    height: 850px;
     border: 1px solid #888;
     width: 80%;
 }
@@ -451,7 +452,7 @@ header .intro-text .intro-heading {
 
 .popvids{
     margin-left: 45%;
-    margin-top: 8%;
+    margin-bottom: 10px;
 
 
 
