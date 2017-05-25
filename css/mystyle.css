@@ -191,7 +191,6 @@ header .intro-text {
 }
 header .intro-text .intro-lead-in {
     font-family: 'Bree Serif', serif;
-    font-style: italic;
     font-size: 22px;
     line-height: 22px;
     margin-bottom: 25px;
@@ -218,6 +217,8 @@ header .intro-text .intro-heading {
     }
     #mp{
         margin-top:-18%;
+        font-size: 1000%;
+        margin-bottom: 50px;
     }
     header .intro-text .intro-heading {
         font-family: 'Bree Serif', serif;
@@ -450,7 +451,7 @@ header .intro-text .intro-heading {
 
 .popvids{
     margin-left: 45%;
-    margin-top: 9.8%;
+    margin-top: 8%;
 
 
 
@@ -486,3 +487,6 @@ header .intro-text .intro-heading {
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
 }*/
+.intro-text{
+    margin-top: 12%;
+}
