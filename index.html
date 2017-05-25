@@ -42,8 +42,8 @@
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-    <![endif]-->
+    <!--[if lt IE 9]-->
+    <!--[endif]-->
 
 </head>
 
@@ -107,12 +107,12 @@
      <h2 id="h2sec1">Filme 2017</h2>
 
      <!-- The Modal -->
-     <img id="img1" src="img/2017/ff8.jpg"/>
+     <img id="img1" src="img/2017/ff8.jpg" onclick="showMovieInfo('#myModal')"/>
      <div id="myModal" class="modal">
 
          <!-- Modal content -->
          <div class="modal-content">
-             <span class="close">&times;</span>
+             <button class="close" onclick="closeMovieInfo('#myModal')">&times;</button>
              <h2>Fast and the Furious 8</h2>
 
                   <img class="popimg" src="img/2017/ff8.jpg"/>
@@ -169,6 +169,17 @@
             $('iframe').height(height);
         });
     });
+
+
+    function showMovieInfo(modalID) {
+        $(modalID).show();
+    }
+
+    function closeMovieInfo(modalID) {
+        console.log(modalID);
+        $(modalID).hide();
+    }
+
 
 </script>
 
