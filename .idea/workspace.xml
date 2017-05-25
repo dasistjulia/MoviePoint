@@ -2,12 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b024c4d-00b2-4c77-8ad5-c9294dc73d30" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/2015/007.jpg" afterPath="$PROJECT_DIR$/img/2015/007.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/2015/AM.jpg" afterPath="$PROJECT_DIR$/img/2015/AM.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/2015/AOU.jpg" afterPath="$PROJECT_DIR$/img/2015/AOU.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/2015/CD.jpg" afterPath="$PROJECT_DIR$/img/2015/CD.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/2015/FF7.jpg" afterPath="$PROJECT_DIR$/img/2015/FF7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/2015/FJG2.jpg" afterPath="$PROJECT_DIR$/img/2015/FJG2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/2015/JW.jpg" afterPath="$PROJECT_DIR$/img/2015/JW.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/2015/M.jpg" afterPath="$PROJECT_DIR$/img/2015/M.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/2015/MI5.jpg" afterPath="$PROJECT_DIR$/img/2015/MI5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/2015/MM.jpg" afterPath="$PROJECT_DIR$/img/2015/MM.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/2015/SP.jpg" afterPath="$PROJECT_DIR$/img/2015/SP.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/2015/SW7.jpg" afterPath="$PROJECT_DIR$/img/2015/SW7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/2016/Why_Him.png" afterPath="$PROJECT_DIR$/img/2016/Why_Him.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/2016/ac.jpg" afterPath="$PROJECT_DIR$/img/2016/ac.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/2016/bvss.jpg" afterPath="$PROJECT_DIR$/img/2016/bvss.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/2016/central_Intelligence.jpg" afterPath="$PROJECT_DIR$/img/2016/central_Intelligence.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/2016/civil_war.jpg" afterPath="$PROJECT_DIR$/img/2016/civil_war.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/2016/deadpool.jpg" afterPath="$PROJECT_DIR$/img/2016/deadpool.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/2016/drStrange.jpg" afterPath="$PROJECT_DIR$/img/2016/drStrange.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/2016/jack-reacher.jpg" afterPath="$PROJECT_DIR$/img/2016/jack-reacher.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/2016/pasengers.jpg" afterPath="$PROJECT_DIR$/img/2016/pasengers.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/2016/spion_bro.jpg" afterPath="$PROJECT_DIR$/img/2016/spion_bro.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/2016/suicide_squad.png" afterPath="$PROJECT_DIR$/img/2016/suicide_squad.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/2016/wow.jpg" afterPath="$PROJECT_DIR$/img/2016/wow.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/2017/ff8.jpg" afterPath="$PROJECT_DIR$/img/2017/ff8.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mystyle.js" afterPath="$PROJECT_DIR$/js/mystyle.js" />
     </list>
     <ignored path="Projekt.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,7 +51,7 @@
       <file leaf-file-name="mystyle.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/mystyle.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="170">
               <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
               <folding />
             </state>
@@ -41,7 +61,7 @@
       <file leaf-file-name="mystyle.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/mystyle.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-41">
+            <state relative-caret-position="6545">
               <caret line="385" column="18" selection-start-line="385" selection-start-column="18" selection-end-line="385" selection-end-column="18" />
               <folding />
             </state>
@@ -51,7 +71,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
+            <state relative-caret-position="654">
               <caret line="155" column="47" selection-start-line="155" selection-start-column="47" selection-end-line="155" selection-end-column="47" />
               <folding />
             </state>
@@ -106,9 +126,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="y" value="27" />
-    <option name="width" value="1920" />
-    <option name="height" value="1053" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -135,42 +156,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="MoviePoint" />
+              <option name="myItemId" value="moviePoint" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MoviePoint" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MoviePoint" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MoviePoint" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MoviePoint" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -269,23 +266,24 @@
       <workItem from="1495691103956" duration="1906000" />
       <workItem from="1495699819921" duration="9974000" />
       <workItem from="1495714050561" duration="1355000" />
+      <workItem from="1495719458755" duration="20000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78617000" />
+    <option name="totallyTimeSpent" value="78637000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1920" height="1053" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17521368" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.175" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32875264" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -483,7 +481,7 @@
     <entry file="file://$PROJECT_DIR$/../../../Web2/css/Stylesheetnew.css" />
     <entry file="file://$PROJECT_DIR$/css/mystyle.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-41">
+        <state relative-caret-position="6545">
           <caret line="385" column="18" selection-start-line="385" selection-start-column="18" selection-end-line="385" selection-end-column="18" />
           <folding />
         </state>
@@ -491,7 +489,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/mystyle.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="170">
           <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
           <folding />
         </state>
@@ -499,7 +497,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
+        <state relative-caret-position="654">
           <caret line="155" column="47" selection-start-line="155" selection-start-column="47" selection-end-line="155" selection-end-column="47" />
           <folding />
         </state>
