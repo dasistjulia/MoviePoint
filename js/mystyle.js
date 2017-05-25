@@ -32,7 +32,7 @@ $(document).ready(function() {
         }
     });
 
-
+/*
     // Get the modal
     var modal = document.getElementById('myModal');
 
@@ -86,7 +86,7 @@ window.onclick = function(event) {
         modal1.style.display = "none";
     }
 };
-
+*/
 ///https://stackoverflow.com/questions/34427926/using-multiple-modal-dialogs-in-one-page
 
 });
